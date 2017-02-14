@@ -3,7 +3,7 @@
  *
  *       Filename:  photons_hw5_task2.c
  *       	Usage:  ./photons_hw5_task2.c
- *    Description: 
+ *    Description: adams task 
  *
  *        Version:  1.0
  *        Created:  02/14/2017 04:38:26 PM
