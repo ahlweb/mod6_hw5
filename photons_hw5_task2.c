@@ -3,7 +3,7 @@
  *
  *       Filename:  photons_hw5_task2.c
  *       	Usage:  ./photons_hw5_task2.c
- *    Description: adams task 
+ *    Description: Adams task Miles to kilometers conversion  
  *
  *        Version:  1.0
  *        Created:  02/14/2017 04:38:26 PM
@@ -14,12 +14,14 @@
 #include <stdio.h>		/* For Standard I/O */
 
 float MakeMilesKmTable(float k);
+
 /* Main Program */
 int main(void)
 {
 
 	float inc, km;
 	int end, miles;
+	
 	printf("Enter the starting miles: ");
 	scanf("%d", &miles);
 
